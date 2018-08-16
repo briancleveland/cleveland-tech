@@ -255,6 +255,7 @@ List of local Cleveland tech companies and resources, mostly in alphabetical ord
 * [ONOSYS](http://www.onosys.com/)
 * [OnShift](http://www.onshift.com/)
 * [Onvoy](http://www.onvoy.com/)
+* [Orchard Designs](https://orcharddesigns.com/)
 * [Osmisys](http://www.osmisys.com/)
 * [OverDrive](https://www.overdrive.com/)
 * [Palnar](http://palnar.com/jobs/) - with jobs like [Firmware Engineer](https://www.dice.com/jobs/detail/Firmware-Engineer-Palnar-INC-Mayfield-Heights-OH-44124/10217801/2018%26%23451176) on Dice
